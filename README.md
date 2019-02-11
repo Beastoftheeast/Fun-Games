@@ -1,2 +1,2 @@
 # Fun-Games
-Games From Scratch
+Games From Scratch using HTML, CSS, and JS.
